@@ -1,0 +1,10 @@
+body{
+  background-color: #111111 !important;
+  color: antiquewhite !important;
+}
+
+.txt_trunk{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
